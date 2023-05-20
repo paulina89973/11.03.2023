@@ -26,3 +26,9 @@ f=11
 g=15
 pole_rombu = (f*g)/2
 print("Obwod rombu wynosi: " + str(obwod_rombu) + ", a pole wynosi " + str(pole_rombu))
+
+#kolo
+r = 14
+obwod_kola = 2*math.pi*r
+pole_kola = math.pi*math.pow(r,2)
+print("Obwod kola wynosi: " + str(obwod_kola) + ", a pole wynosi " +str(pole_kola))
