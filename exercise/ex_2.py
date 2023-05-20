@@ -19,3 +19,10 @@ pole= a * b
 
 print("Obwod prosotkata wynosi" + str(obwod) + " , zas pole wynosi" + str(pole) + ".")
 
+# romb
+a = 12
+obwod_rombu = a*4
+f=11
+g=15
+pole_rombu = (f*g)/2
+print("Obwod rombu wynosi: " + str(obwod_rombu) + ", a pole wynosi " + str(pole_rombu))
